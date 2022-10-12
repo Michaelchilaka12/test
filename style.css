@@ -1,0 +1,88 @@
+.HEAD{
+  color:rgb(203, 224, 10);
+background-color: brown;
+}
+.body1{
+ background-image: url("6123.jpg");
+ background-size: cover;
+ background-attachment: fixed;
+}
+.body2{
+  background-image: url("mi.webp");
+  background-size: cover;
+ background-attachment: fixed;
+  }
+  .body3{
+    background-image: url("6123.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+  }
+    .body4{
+      background-image: url("6123.jpg");
+      background-size: cover;
+      background-attachment: fixed;
+    }
+.tex{
+  width: 40%;
+  height: 20%;
+}
+textarea{
+  resize: none;
+  width: 20%;
+ height: 300px;
+}
+.menu{
+  color: rgb(202, 8, 8);
+ text-align: right;
+ 
+}
+.min{
+  color: rgb(21, 21, 228);
+  text-align: right;
+}
+.nim{
+  color: rgb(21, 21, 228);
+  text-align: right;
+}
+.NAME{
+background-color: rgb(13, 209, 30);
+
+}
+.list{
+  color: rgb(184, 3, 3);
+}
+.out{
+background-color: red;
+color: rgb(10, 10, 10);
+}
+.top{
+  background-color: darkolivegreen;
+  color: red;
+}
+.IT{
+  background-image: url("mi3.webp");
+background-size: 100%;
+background-repeat: no-repeat;
+text-align: center;
+  height: 260PX;
+  width: 100%;
+color: rgb(228, 90, 10);
+
+}
+.my{
+  height: 590px;
+  width: 1678px;
+}
+.wifi{
+  height: 510px;
+  width: 820px;
+  float: right;
+}
+.man{
+  width: 840px;
+  height:520px ;
+}
+.all{
+  color: rgb(52, 11, 238);
+  font-style: oblique;
+}
